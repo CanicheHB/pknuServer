@@ -25,7 +25,7 @@ SECRET_KEY = '&2hplpn*&-0-gn&f#x=fs__4nu+xn3x15wd8twzkd7i+ef$9!5'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['3.37.94.31']
 
 
 # Application definition
